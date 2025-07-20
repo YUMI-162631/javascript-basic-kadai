@@ -1,6 +1,5 @@
 
 const Total = (answer) => {
-  console.log(answer * answer);
+  return answer * answer;
 }
-
-Total(10);
+ console.log(Total(10));
